@@ -1,1 +1,3 @@
+ssh -s admin@192.168.254.54 netconf
 
+https://www.cisco.com/c/en/us/td/docs/ios-xml/ios/cns/configuration/15-mt/cns-15-mt-book/cns-netconf.html
